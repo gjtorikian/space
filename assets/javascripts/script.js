@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
   let text = ['by definition',
               'cannot be',
-              'a final frontier.',
+              'another frontier.',
               'It is',
               'infinite boundlessness',
               'defined',
